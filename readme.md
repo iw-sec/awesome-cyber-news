@@ -112,6 +112,8 @@ BlueVoyant | https://www.bluevoyant.com/blog?page=1&topic=threat-intelligence |
 Socket.dev | https://socket.dev/blog/category/research |
 Acronis TRU | https://www.acronis.com/en/tru/ | https://www.acronis.com/en-us/tru/feed.xml
 Expel TI | https://expel.com/blog/category/threat-intel/ | 
+SpyCloud Labs | https://spycloud.com/resources/spycloud-labs/ | https://spycloud.com/feed/
+Outpost24 KrakenLabs | https://outpost24.com/blog/authors/krakenlabs/ | https://outpost24.com/feed/
 
 <br>
 
