@@ -25,7 +25,7 @@ Cyber Press | https://cyberpress.org/ | https://cyberpress.org/feed/
 
 <br>
 
-## CTI/Research Blogs
+## Blogs
 | Name | Link | Feed |
 | --- | --- | --- |
 Cato CTRL | https://www.catonetworks.com/blog/category/cato-ctrl/ | https://www.catonetworks.com/blog/category/cato-ctrl/feed
@@ -114,15 +114,16 @@ Acronis TRU | https://www.acronis.com/en/tru/ | https://www.acronis.com/en-us/tr
 Expel TI | https://expel.com/blog/category/threat-intel/ | 
 SpyCloud Labs | https://spycloud.com/resources/spycloud-labs/ | https://spycloud.com/feed/
 Outpost24 KrakenLabs | https://outpost24.com/blog/authors/krakenlabs/ | https://outpost24.com/feed/
+Hatching | https://hatching.io/blog/#category=all | 
+CIS Blog | https://www.cisecurity.org/insights/blog | 
 
 <br>
 
 ## Other
 | Name | Link |
 | --- | --- |
-CIS Advisories | https://cisecurity.org/advisory
-CIS Blog Posts | https://www.cisecurity.org/insights/blog
 SANS NewsBites | https://www.sans.org/newsletters/newsbites
+CIS Advisories | https://cisecurity.org/advisory
 CISA Advisories | https://www.cisa.gov/news-events/cybersecurity-advisories
 CISA KEV Catalog | https://www.cisa.gov/known-exploited-vulnerabilities-catalog
 ANY.RUN \| Malware Trends Tracker | https://any.run/malware-trends/
@@ -133,10 +134,18 @@ Cybercrime Information Center \| Malware Activity | https://www.cybercrimeinfoce
 SOCRadar \| Threat Actors | https://socradar.io/labs/threat-actor/
 Sophos \| Threat Group Profiles | https://www.sophos.com/en-us/threat-profiles
 CyberWire Daily Podcast | https://thecyberwire.com/podcasts/daily-podcast
-Reddit \| r/netsec | https://www.reddit.com/r/netsec/
-Reddit \| r/blueteamsec | https://www.reddit.com/r/blueteamsec/
-Reddit \| r/Malware | https://www.reddit.com/r/Malware/
-Infosec Exchange |  https://infosec.exchange/public/local
+
+<br>
+
+## Forums 
+| Name | Link |
+| --- | --- |
+r/netsec | https://www.reddit.com/r/netsec/
+r/blueteamsec | https://www.reddit.com/r/blueteamsec/
+r/Malware | https://www.reddit.com/r/Malware/
+infosec.exchange |  https://infosec.exchange/public/local
+ioc.exchange | https://ioc.exchange/public/local
+InfoSec Stack Exchange | https://security.stackexchange.com/
 
 <br>
 
