@@ -117,6 +117,7 @@ Outpost24 KrakenLabs | https://outpost24.com/blog/authors/krakenlabs/ | https://
 Hatching | https://hatching.io/blog/#category=all | 
 CIS Blog | https://www.cisecurity.org/insights/blog | 
 Straiker | https://www.straiker.ai/blog | 
+
 <br>
 
 ## Other
