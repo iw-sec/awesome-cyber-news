@@ -118,6 +118,7 @@ Hatching | https://hatching.io/blog/#category=all |
 CIS Blog | https://www.cisecurity.org/insights/blog | 
 Straiker | https://www.straiker.ai/blog | 
 Abnormal AI | https://abnormal.ai/blog | 
+Pulsedive | https://blog.pulsedive.com/ | https://blog.pulsedive.com/rss/
 
 <br>
 
