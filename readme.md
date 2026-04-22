@@ -124,7 +124,7 @@ Lookout | https://www.lookout.com/threat-intelligence |
 Halcyon Ransomware Research | https://www.halcyon.ai/ransomware-research/reports |
 SpecterOps | https://specterops.io/blog/ |
 Gen Digital | https://www.gendigital.com/blog/insights/research | https://www.gendigital.com/blog/rss/v1/blogs/rss.xml/15040
-
+TrustedSec | https://trustedsec.com/blog | https://trustedsec.com/feed.rss
 
 <br>
 
