@@ -126,6 +126,7 @@ SpecterOps | https://specterops.io/blog/ |
 Gen Digital | https://www.gendigital.com/blog/insights/research | https://www.gendigital.com/blog/rss/v1/blogs/rss.xml/15040
 TrustedSec | https://trustedsec.com/blog | https://trustedsec.com/feed.rss
 Breakglass Intelligence | https://intel.breakglass.tech/ | https://intel.breakglass.tech/rss
+StepSecurity | https://www.stepsecurity.io/blog | https://www.stepsecurity.io/blog/rss.xml
 
 <br>
 
