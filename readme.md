@@ -131,6 +131,25 @@ Ctrl-Alt-Intel | https://ctrlaltintel.com/categories/#research | https://ctrlalt
 
 <br>
 
+## Vulnerability Research 🐛
+| Name | Link | Feed |
+| --- | --- | --- |
+cvefeed.io | https://cvefeed.io/ | https://cvefeed.io/rssfeed/severity/high.xml
+Offseq Radar | https://radar.offseq.com | https://radar.offseq.com/rss.xml
+securityvulnerability.io | https://securityvulnerability.io/exploits/latest | https://rss.securityvulnerability.io/exploits/latest
+MSRC Security Update Guide | https://msrc.microsoft.com/update-guide | https://api.msrc.microsoft.com/update-guide/rss
+Zero Day Initiative | https://www.zerodayinitiative.com/advisories/published/ | https://www.zerodayinitiative.com/rss/published/
+Exploit-DB | https://www.exploit-db.com | https://www.exploit-db.com/rss.xml
+SOCRadar \| CVE Radar | https://socradar.io/labs/app/cve-radar | 
+GitHub Advisory Database | https://github.com/advisories | 
+CVEdetails | https://cvedetails.com/ | 
+Project Zero | https://projectzero.google/archive.html | https://projectzero.google/feed.xml
+Xint.io | https://xint.io/blog/category/-vulnerability-research | https://xint.io/blog/rss
+watchTowr Labs | https://labs.watchtowr.com/ | https://labs.watchtowr.com/rss/
+red.anthropic | https://red.anthropic.com/ |
+
+<br>
+
 ## Misc 🧩
 | Name | Link |
 | --- | --- |
@@ -149,18 +168,6 @@ CyberWire Daily Podcast | https://thecyberwire.com/podcasts/daily-podcast
 
 <br>
 
-## Social 👥
-| Name | Link |
-| --- | --- |
-r/netsec | https://www.reddit.com/r/netsec/
-r/blueteamsec | https://www.reddit.com/r/blueteamsec/
-r/Malware | https://www.reddit.com/r/Malware/
-infosec.exchange |  https://infosec.exchange/public/local
-ioc.exchange | https://ioc.exchange/public/local
-InfoSec Stack Exchange | https://security.stackexchange.com/
-
-<br>
-
 ## Dark Web 🕶️
 | Name | Link
 | --- | --- |
@@ -172,21 +179,14 @@ ransomware.live | https://www.ransomware.live/
 
 <br>
 
-## Vulnerability Research 🐛
-| Name | Link | Feed |
-| --- | --- | --- |
-cvefeed.io | https://cvefeed.io/ | https://cvefeed.io/rssfeed/severity/high.xml
-Offseq Radar | https://radar.offseq.com | https://radar.offseq.com/rss.xml
-securityvulnerability.io | https://securityvulnerability.io/exploits/latest | https://rss.securityvulnerability.io/exploits/latest
-MSRC Security Update Guide | https://msrc.microsoft.com/update-guide | https://api.msrc.microsoft.com/update-guide/rss
-Zero Day Initiative | https://www.zerodayinitiative.com/advisories/published/ | https://www.zerodayinitiative.com/rss/published/
-Exploit-DB | https://www.exploit-db.com | https://www.exploit-db.com/rss.xml
-SOCRadar \| CVE Radar | https://socradar.io/labs/app/cve-radar | 
-GitHub Advisory Database | https://github.com/advisories | 
-CVEdetails | https://cvedetails.com/ | 
-Project Zero | https://projectzero.google/archive.html | https://projectzero.google/feed.xml
-Xint.io | https://xint.io/blog/category/-vulnerability-research | https://xint.io/blog/rss
-watchTowr Labs | https://labs.watchtowr.com/ | https://labs.watchtowr.com/rss/
-red.anthropic | https://red.anthropic.com/ |
+## Social 👥
+| Name | Link |
+| --- | --- |
+r/netsec | https://www.reddit.com/r/netsec/
+r/blueteamsec | https://www.reddit.com/r/blueteamsec/
+r/Malware | https://www.reddit.com/r/Malware/
+infosec.exchange |  https://infosec.exchange/public/local
+ioc.exchange | https://ioc.exchange/public/local
+InfoSec Stack Exchange | https://security.stackexchange.com/
 
 <br>
