@@ -2,7 +2,7 @@ my collection of cybersecurity news and threat intelligence links/feeds
 
 <br>
 
-## News
+## News 📰
 | Name | Link | Feed |
 | --- | --- | --- |
 BleepingComputer | https://www.bleepingcomputer.com/ | https://www.bleepingcomputer.com/feed/
@@ -24,7 +24,7 @@ Cyber Press | https://cyberpress.org/ | https://cyberpress.org/feed/
 
 <br>
 
-## Blogs
+## Blogs 📝
 | Name | Link | Feed |
 | --- | --- | --- |
 Cato CTRL | https://www.catonetworks.com/blog/category/cato-ctrl/ | https://www.catonetworks.com/blog/category/cato-ctrl/feed
@@ -127,10 +127,11 @@ Gen Digital | https://www.gendigital.com/blog/insights/research | https://www.ge
 TrustedSec | https://trustedsec.com/blog | https://trustedsec.com/feed.rss
 Breakglass Intelligence | https://intel.breakglass.tech/ | https://intel.breakglass.tech/rss
 StepSecurity | https://www.stepsecurity.io/blog | https://www.stepsecurity.io/blog/rss.xml
+Ctrl-Alt-Intel | https://ctrlaltintel.com/categories/#research | https://ctrlaltintel.com/feed.xml
 
 <br>
 
-## Other
+## Misc 🧩
 | Name | Link |
 | --- | --- |
 SANS NewsBites | https://www.sans.org/newsletters/newsbites
@@ -148,7 +149,7 @@ CyberWire Daily Podcast | https://thecyberwire.com/podcasts/daily-podcast
 
 <br>
 
-## Forums 
+## Social 👥
 | Name | Link |
 | --- | --- |
 r/netsec | https://www.reddit.com/r/netsec/
@@ -160,7 +161,7 @@ InfoSec Stack Exchange | https://security.stackexchange.com/
 
 <br>
 
-## Dark Web
+## Dark Web 🕶️
 | Name | Link
 | --- | --- |
 Dark Web Informer | https://darkwebinformer.com/
@@ -171,7 +172,7 @@ ransomware.live | https://www.ransomware.live/
 
 <br>
 
-## Vulns, Bugs, Exploits
+## Vulnerability Research 🐛
 | Name | Link | Feed |
 | --- | --- | --- |
 cvefeed.io | https://cvefeed.io/ | https://cvefeed.io/rssfeed/severity/high.xml
@@ -184,5 +185,8 @@ SOCRadar \| CVE Radar | https://socradar.io/labs/app/cve-radar |
 GitHub Advisory Database | https://github.com/advisories | 
 CVEdetails | https://cvedetails.com/ | 
 Project Zero | https://projectzero.google/archive.html | https://projectzero.google/feed.xml
+Xint.io | https://xint.io/blog/category/-vulnerability-research | https://xint.io/blog/rss
+watchTowr Labs | https://labs.watchtowr.com/ | https://labs.watchtowr.com/rss/
+red.anthropic | https://red.anthropic.com/ |
 
 <br>
